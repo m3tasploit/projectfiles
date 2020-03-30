@@ -5186,7 +5186,7 @@
         {
           "arcs": [[664, -253, -295, -81, 665, -79, 666, -77, 667]],
           "type": "Polygon",
-          "properties": {"ST_NM": "Telangana"}
+          "properties": {"ST_NM": "Telengana"}
         },
         {
           "arcs": [[-18, -315, 668]],
