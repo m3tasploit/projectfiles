@@ -1,6 +1,6 @@
-name,active_cases,observation
+name,active_cases,observation,death
 Alappuzha,1,6267
-Ernakulam,14,5730
+Ernakulam,14,5730,1
 Idukki,2,2265
 Kannur,38,10748
 Kasaragod,80,7042
