@@ -1,10 +1,10 @@
 {
-  "active_cases": 181,
-  "confirmed_cases": 202,
+  "active_cases": 213,
+  "confirmed_cases": 234,
   "deaths": 1,
   "recovered":20,
   "delta": {
-    "active_cases": 20,
-    "recovered": 4
+    "active_cases": 32,
+    "recovered": 0
   }
 }
