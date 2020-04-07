@@ -1,6 +1,6 @@
 name,active_cases,observation,death,recovered,confirmed
 Thiruvananthapuram,8,12470,1,6,15
-Kollam,5,11374,0,1,6
+Kollam,6,11374,0,1,7
 Pathanamthitta,7,7716,0,6,13
 Alappuzha,2,8743,0,1,3
 Kottayam,0,3222,0,3,3
@@ -8,9 +8,9 @@ Idukki,7,3723,0,3,10
 Ernakulam,18,707,1,5,24
 Thrissur,9,14716,0,3,12
 Palakkad,7,18427,0,0,7
-Malappuram,13,16453,0,1,14
+Malappuram,14,16453,0,1,15
 Kozhikode,11,21934,0,4,15
 Wayanad,3,11588,0,0,3
-Kannur,48,10895,0,22,70
-Kasaragod,128,10836,0,4,132
-Total,266,152804,2,59,327
+Kannur,51,10895,0,22,73
+Kasaragod,132,10836,0,4,136
+Total,263,152804,2,71,336
