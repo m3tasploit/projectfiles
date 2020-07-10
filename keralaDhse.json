@@ -1,7 +1,7 @@
 {
   "active_cases": 3099,
   "confirmed_cases": 6950,
-  "deaths": 29,
+  "deaths": 27,
   "recovered": 3820,
   "delta": {
     "active": "+304",
