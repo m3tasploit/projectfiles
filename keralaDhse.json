@@ -1,38 +1,12 @@
 {
-<<<<<<< Updated upstream
-  "active_cases": 21800,
-  "confirmed_cases": 84759,
-  "deaths": 337,
-  "recovered": 62894,
-  "delta": {
-    "active": "+0",
-    "recovered": "+2111",
-    "confirmed": "+2655"
-  },
-  "timestamp": 1599310288202 
-=======
-<<<<<<< HEAD
   "active_cases": 22676,
-  "confirmed_cases": 85186,
+  "confirmed_cases": 87841,
   "deaths": 347,
-  "recovered": 62979,
-  "delta": {
-    "active": "+0",
-    "recovered": "+2196",
-    "confirmed": "+3082"
-  },
-  "timestamp": 1599395731789 
-=======
-  "active_cases": 21800,
-  "confirmed_cases": 84759,
-  "deaths": 337,
-  "recovered": 62894,
+  "recovered": 64751,
   "delta": {
     "active": "+0",
     "recovered": "+2111",
     "confirmed": "+2655"
   },
-  "timestamp": 1599310288202 
->>>>>>> 99e4745df5cac621361c587df6aced3ddde07b37
->>>>>>> Stashed changes
+  "timestamp": 1599398585867
 }
