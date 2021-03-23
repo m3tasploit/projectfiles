@@ -1,12 +1,12 @@
 {
-  "active_cases": 27057,
-  "confirmed_cases": 1092324,
-  "deaths": 4407,
-  "recovered": 1060560,
+  "active_cases": 26127,
+  "confirmed_cases": 1094294,
+  "deaths": 4422,
+  "recovered": 1063444,
   "delta": {
     "active": "+0",
     "recovered": "+2828",
     "confirmed": "+8135"
   },
-  "timestamp": 1615815778369
+  "timestamp": 1615902178369
 }
